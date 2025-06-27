@@ -1,0 +1,7 @@
+name = "soblendkx-api"
+main = "src/index.js"
+compatibility_date = "2024-06-27"
+
+[vars]
+# Esta sección '[vars]' no es estrictamente necesaria si la clave está incrustada,
+# pero se incluye para mostrar dónde irían las variables de entorno si usaras el método seguro.
